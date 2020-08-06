@@ -1,9 +1,11 @@
 <?php //php to connect to database which is managed through phpMyAdmin
 
-  $servername = "localhost"; //local server name
-  $dbUsername = "root"; //username of the DB
-  $dbPassword = "test123"; //password of the DB
-  $dbName = "project"; //name of DB to connect to
+  $servername = "mysql5.gear.host"; //local server name
+  $dbUsername = "ianproject"; //username of the DB
+  $dbPassword = "Jx5CQ?d?GmAY"; //password of the DB
+  $dbName = "ianproject"; //name of DB to connect to
+
+
 
   $conn = mysqli_connect($servername, $dbUsername,$dbPassword, $dbName); //set up a connection variable using the details above
 

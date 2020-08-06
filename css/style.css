@@ -1,0 +1,24 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.updatebtn {
+  text-align: center;
+}
+
+.device-verification{
+  position: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.input-verification{
+  position: center;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
